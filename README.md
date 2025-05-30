@@ -231,4 +231,4 @@ Les crypto-monnaies sont une **nouvelle couche d'infrastructure numérique**, au
 * Vérifier les adresses avant chaque transfert 🔎
 * Consulter les frais de réseau avant de valider une transaction ⚖️
 
-Bon apprentissage et amusez-vous bien dans le monde des cryptos ! 🤩
+Bon apprentissage dans le monde des cryptos ! 🤩
